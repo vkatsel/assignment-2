@@ -1,4 +1,4 @@
-This is the game, called "Memorizer.
+This is the "Memorizer" game.
 The rules are simple:
 1. You pick up the coordinates of two cards and the cards are opening
 2. If the signs are the same, those cards are left open
